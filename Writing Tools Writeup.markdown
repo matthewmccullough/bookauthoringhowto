@@ -83,6 +83,12 @@ So, how can this be done in a more reasonable way?
 2. Write 5% of the book based on passion.
 3. Level two bullets. See impact on level 1. Revise. Review.
 4. Consider the outline locked unless there is something massively broken.
+5. [Write a crappy first draft](http://www.mywritingmylife.com/2011/11/on-writing-the-shitty-first-draft.php) with high velocity.
+6. Stick to the outline. If you need to change it, change it, but don't let the prose drive the plan.
+
+## Writing Hacks
+1. Use [Dragon Dictate](http://www.nuance.com/for-individuals/by-product/dragon-for-mac/dragon-dictate/index.htm) and a [Plantronics wireless boom mic](http://www.plantronics.com/us/product/audio-995). Thank me later. I cranked out 5200 words in a day with it. And you can listen to music while you dictate.
+2. [Write every day](http://forums.pragprog.com/forums/235/topics/9874). Even if just a little bit. I am the worst offender of this advice, but I am trying to stick to it.
 
 ## Task tracking
 * Q: We've been evaluating [trello.com](http://trello.com)
@@ -106,9 +112,6 @@ So, how can this be done in a more reasonable way?
 	** Final Draft <2012-02-15 Wed>                                    :nf:mm:ns:
 
 ## Big Thoughts
-1. Use [Dragon Dictate](http://www.nuance.com/for-individuals/by-product/dragon-for-mac/dragon-dictate/index.htm) and a [Plantronics wireless boom mic](http://www.plantronics.com/us/product/audio-995). Thank me later. I cranked out 5200 words in a day with it. And you can listen to music while you dictate.
-2. [Write a crappy first draft](http://www.mywritingmylife.com/2011/11/on-writing-the-shitty-first-draft.php) with high velocity.
-3. Stick to the outline. If you need to change it, change it, but don't let the prose drive the plan.
 
 Hope that helps.
 
