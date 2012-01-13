@@ -34,7 +34,7 @@
 	* For pure XML (DocBook) authoring, I liked:
 		* [Oxygen](http://www.oxygenxml.com/)
 		* [XMLMind](http://www.xmlmind.com/xmleditor/)
-		* Emacs nXML mode
+		* [Emacs nXML mode](http://www.thaiopensource.com/nxml-mode/)
 	* Some of these have DocBook stylesheets built in or a live editor
 * The drawback to AsciiDoc is the lack of not having the full DocBook tag vocabulary
 	* You can always convert towards the end of the book and use DocBook from there on out, but that seems like a nasty mode shift.
