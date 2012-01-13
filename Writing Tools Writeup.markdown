@@ -70,7 +70,8 @@
 * Q: GitHub comments?
 * [Remarks DocBook tags](http://www.docbook.org/tdg/en/html/remark.html) in the DocBook files (Presentation Patterns)
     * http://www.docbook.org/tdg/en/html/remark.html
-    * I wrote and had my brother, a JS and HTML guy, write an awesome stylesheet that made the remarks pop in Red.
+    * I wrote and had [my brother, a JS and HTML guy](http://ambientideasphotography.com), write an awesome stylesheet that made the remarks pop in Red.
+    * Remark tags generate "notes" in PDFs. Awesome.
     * `TODO` keyword in the text with a build script that found and listed them all (like an `ack`)
 
 ## Outlining strategy/hacks
