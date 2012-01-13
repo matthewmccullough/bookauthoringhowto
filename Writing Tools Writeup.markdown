@@ -2,10 +2,10 @@
 
 ## Text markup and structure
 * So many light markup formats to consider
-	* Markdown
-	* Textile
-	* Asciidoc
-	* Most compile to HTML, PDF, DocBook
+	* [Markdown](http://daringfireball.net/projects/markdown/)
+	* [Textile](http://www.textism.com/tools/textile/)
+	* [Asciidoc](http://www.methods.co.nz/asciidoc/)
+	* Most compile to HTML, PDF, [DocBook](http://www.docbook.org/)
 * Get handy with [PanDoc](http://johnmacfarlane.net/pandoc/) (but man, the haskell bootstrapping is a pain)
 * List of formats:
 	* [Wikipedia Markup Formats](http://en.wikipedia.org/wiki/Lightweight_markup_language)
