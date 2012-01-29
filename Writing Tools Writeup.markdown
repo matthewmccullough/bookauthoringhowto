@@ -112,8 +112,19 @@ So, how can this be done in a more reasonable way?
 	be confused with Pearson's process
 	** Final Draft <2012-02-15 Wed>                                    :nf:mm:ns:
 
-## Big Thoughts
+## Contract management
+Publishers are in the dark ages with this sending shredded trees all over the place asking you to physically sign 6 copies of a signature sheet. WTF!? Ideally this idea would integrate with electronic document handling like GH uses for its new employees.
 
+_via Phil Haack_
+
+## Integrated Reporting
+Royalty and sales reporting typically sucks. Outdated sites that make Geocities look like the next GH. This site could provide a nice reporting dashboard for authors to look at.
+
+Basically, this could be the one stop shop for publishers and authors to collaborate on a book.
+
+_via Phil Haack_
+
+----------------
 Hope that helps.
 
 Matthew McCullough  
