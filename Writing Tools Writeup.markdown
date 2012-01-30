@@ -4,6 +4,7 @@
 * So many light markup formats to consider
 	* [Markdown](http://daringfireball.net/projects/markdown/)
 	* [Textile](http://www.textism.com/tools/textile/)
+        * [reStructuredText](http://docutils.sourceforge.net/rst.html)
 	* [Asciidoc](http://www.methods.co.nz/asciidoc/)
 	* Most compile to HTML, PDF, [DocBook](http://www.docbook.org/)
 * Get handy with [PanDoc](http://johnmacfarlane.net/pandoc/) (but man, the haskell bootstrapping is a pain)
